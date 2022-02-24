@@ -1,0 +1,10 @@
+{
+  "results":[
+    {
+      "gender":"male",
+      "name":{
+        "title":"Mr","last":"skelleton"
+      },
+      "picture": "https://randomuser.me/api/portraits/thumb/men/84.jpg"
+  ]
+}
