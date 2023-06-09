@@ -1,6 +1,150 @@
 {
   "liveCourseData":[
     {
+      "courseNo":41,
+      "courseName":"Shorts",
+      "courseTitle":"가로는 싫다 세로도 싫다\nShorts 대구여행",
+      "courseContents":"가로는 싫다 세로도 싫다\n대구여행 다 싫다",
+      "liveVideoPlace": [
+        {
+          "placeNo":401,
+          "placeName":"팔공산케이블카 안탈래",
+          "placeContents":"팔공산과 대구 시내 전경이 한눈에\n전망대, 소원의 언덕, 사랑의 터널 등의 즐길거리가 있어요.",
+          "videoContents":"팔공산과 대구 시내 전경이 한눈에\n전망대, 소원의 언덕, 사랑의 터널 등의 즐길거리가 있어요.",
+          "courseNoList":[21],
+          "category":[21],
+          "placeVideoList":[
+            {
+              "videoNo":301,
+              "courseNoList":[21],
+              "category":[21],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/1_shorts/shorts1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/9747833b-f52d-428a-9fa7-8843411e710b/shorts1.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":402,
+          "placeName":"대구수목원",
+          "placeContents":"쓰레기 매립장이 청정 수목원으로 재탄생!\n전국 최초의 도심형 수목원",
+          "videoContents":"쓰레기 매립장이 청정 수목원으로 재탄생!\n전국 최초의 도심형 수목원",
+          "courseNoList":[21],
+          "category":[21],
+          "placeVideoList":[
+            {
+              "videoNo":302,
+              "courseNoList":[21],
+              "category":[21],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/1_shorts/shorts2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/e97b04bd-7d8e-4524-86f3-f80048fe5cb8/shorts2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":403,
+          "placeName":"디아크",
+          "placeContents":"물과 자연과 문화가 오롯이 담긴 건축예술품\n최고의 힐링 장소는 디아크 3층 전망대",
+          "videoContents":"물과 자연과 문화가 오롯이 담긴 건축예술품\n최고의 힐링 장소는 디아크 3층 전망대",
+          "courseNoList":[21],
+          "category":[21],
+          "placeVideoList":[
+            {
+              "videoNo":303,
+              "courseNoList":[21],
+              "category":[21],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/1_shorts/shorts3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/8349fc28-6aa8-4d8c-bd1f-5948dac7fd48/shorts3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":404,
+          "placeName":"안심체육공원",
+          "placeContents":"로맨틱하고 웅장한 메타세쿼이아 길\n좌우로 키 큰 나무들이 줄 서 있는 장관",
+          "videoContents":"로맨틱하고 웅장한 메타세쿼이아 길\n좌우로 키 큰 나무들이 줄 서 있는 장관",
+          "courseNoList":[21],
+          "category":[21],
+          "placeVideoList":[
+            {
+              "videoNo":304,
+              "courseNoList":[21],
+              "category":[21],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/1_shorts/shorts4.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/5a868733-26c7-415f-8d9f-bc02e2fd3dc4/shorts4.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":305,
+          "placeName":"대명유수지",
+          "placeContents":"가을이면 살랑살랑 억새로 물들어 있는\n광활한 습지를 만나 볼 수 있어요.",
+          "videoContents":"가을이면 살랑살랑 억새로 물들어 있는\n광활한 습지를 만나 볼 수 있어요.",
+          "courseNoList":[21],
+          "category":[21],
+          "placeVideoList":[
+            {
+              "videoNo":305,
+              "courseNoList":[21],
+              "category":[21],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/1_shorts/shorts5.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/2a080da2-ada9-4666-8ba7-6a2fe4df133a/shorts5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":306,
+          "placeName":"두류공원",
+          "placeContents":"문화, 교양, 체육시설이 있는 도시근린공원\n시민건강증진과 시민문화의 중심!",
+          "videoContents":"문화, 교양, 체육시설이 있는 도시근린공원\n시민건강증진과 시민문화의 중심!",
+          "courseNoList":[21],
+          "category":[21],
+          "placeVideoList":[
+            {
+              "videoNo":306,
+              "courseNoList":[21],
+              "category":[21],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/1_shorts/shorts6.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/55cb6297-adc8-461d-b6b6-774d5f2e0de9/shorts6.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":307,
+          "placeName":"비슬산",
+          "placeContents":"장중한 산세, 30만 평의 진달래꽃\n자연휴양림에서 삼림욕과 휴식도 즐길 수 있어요.",
+          "videoContents":"장중한 산세, 30만 평의 진달래꽃\n자연휴양림에서 삼림욕과 휴식도 즐길 수 있어요.",
+          "courseNoList":[21],
+          "category":[21],
+          "placeVideoList":[
+            {
+              "videoNo":307,
+              "courseNoList":[21],
+              "category":[21],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/1_shorts/shorts7.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/4e2c688b-094f-46c7-80a8-8b8466d69e4b/shorts7.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":308,
+          "placeName":"호텔수성",
+          "placeContents":"수성못이 한 눈에 보이는 호텔수성\n수영도 하고 호캉스도 즐겨보아요!",
+          "videoContents":"수성못이 한 눈에 보이는 호텔수성\n수영도 하고 호캉스도 즐겨보아요!",
+          "courseNoList":[21],
+          "category":[21],
+          "placeVideoList":[
+            {
+              "videoNo":308,
+              "courseNoList":[21],
+              "category":[21],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/1_shorts/shorts8.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/0d6856f9-38da-446c-ba98-b8afd416df88/shorts8.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "courseNo":21,
       "courseName":"Shorts",
       "courseTitle":"가로도 좋지만 세로도 좋다\nShorts 대구여행",
